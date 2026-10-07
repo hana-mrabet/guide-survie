@@ -39,7 +39,7 @@ Ajoutez votre ligne à la fin de cette liste, en respectant le format.
 
 <!-- ===== AJOUTEZ VOTRE NOM CI-DESSOUS ===== -->
 
-* Hana Mrabet - étudiante
+\* Hana Mrabet - étudiante
 
 <!-- ===== FIN DES CONTRIBUTEURS ===== -->
 ```
@@ -49,4 +49,26 @@ Ajoutez votre ligne à la fin de cette liste, en respectant le format.
 ## En cas de problème
 
 Consultez le [mur des pannes](https://liliasfaxi.github.io/git-tp-dauphine/pannes) sur le site des TP, et ajoutez-y la vôtre si elle n'y figure pas encore.
+
+\## Ce qu'il reste à faire
+
+
+
+\- \[x] Mettre le projet en ligne
+
+\- \[ ] Ajouter mes fiches
+
+\- \[ ] Personnaliser les couleurs
+
+\- \[ ] Déployer le site
+
+
+
+\## Liens utiles
+
+
+
+\- \[Le site des TP](https://github.com/hana-mrabet/guide-survie.git)
+
+\- \[La documentation de Git](https://git-scm.com/doc)
 
